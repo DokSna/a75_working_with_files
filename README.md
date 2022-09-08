@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+Данное приложение демонстрирует запись и чтение файлов на диск устройства во временную ("temp"), или постоянную директорию ("папку") приложения с помощью пакета path_provider: ^2.0.11
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
